@@ -21,8 +21,6 @@ useEffect(()=>{
     navigate("/login")
   }
 })
-
-
   return (
     // main div start 
     <div className='flex items-center bg-chat ' >
@@ -32,9 +30,6 @@ useEffect(()=>{
       <NavBar/>
       </div>
       {/* navbar div end   */}
-
-
-
      {/* home page ui design start  */}
      
        <div >
